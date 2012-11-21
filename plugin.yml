@@ -1,0 +1,5 @@
+name: WGRegionCommands
+version: 0.1
+authors: [ mewin ]
+main: com.mewin.wgrc.WGRegionCommandsPlugin
+depend: [ WorldGuard, WGCustomFlags, WGRegionEvents ]
